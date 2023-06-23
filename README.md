@@ -10,9 +10,10 @@ related to a currency.The columns of this dataset include:'symbol', 'date', 'clo
 'high', 'low', 'open', 'volume', 'adjClose', 'adjHigh', 'adjLow', 'adjOpen',
 'adjVolume','divCash', 'splitFactor'.Shape this data is:(1258, 14).
 
+##Analiz
 
 #### ToDo
-[ ] writhing App for final predict 
+[-] writhing App for final predict 
 [ ] analysis data
 [ ] reading link similar
 [ ] find best model
