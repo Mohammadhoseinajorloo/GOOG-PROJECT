@@ -30,7 +30,7 @@ class Ui_Form(object):
         self.label.setObjectName("label")
         self.verticalLayout.addWidget(self.label)
         self.lineEdit = QtWidgets.QLineEdit(Form)
-        self.lineEdit.setStyleSheet("color: rgb(255, 255, 255);\n"
+        self.lineEdit.setStyleSheet("color: rgb(255, 255, 255)\n"
 "background-color: rgb(255, 255, 255);")
         self.lineEdit.setObjectName("lineEdit")
         self.verticalLayout.addWidget(self.lineEdit)
